@@ -11,3 +11,5 @@ Encoding: UTF-8
 LazyData: true
 Suggests: 
     tinysnapshot
+URL: https://github.com/etiennebacher/testtinysnapshot
+BugReports: https://github.com/etiennebacher/testtinysnapshot/issues
